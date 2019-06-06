@@ -6,7 +6,7 @@ An implementation of the [SLIP-0013 spec](https://github.com/satoshilabs/slips/b
 
 This library is best used in conjunction with [go-slip10](https://github.com/lmars/go-slip10):
 
-```
+```go
 package main
 
 import (
